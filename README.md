@@ -1,5 +1,5 @@
 # Scene Text Detection via Decoupled Feature Pyramid Networks
-This code is for "Scene Text Detection via Decoupled Feature Pyramid Networks" review only.
+This code is for review only.
 ## Requirements:  
 tensorflow >=1.13  
 python3  
